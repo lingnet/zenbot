@@ -3,10 +3,10 @@
   "version": "0.2.0",
   "description": "Parallel simulation runner with CSV results",
   "dependencies": {
-    "json2csv": "^3.7.3",
+    "json2csv": "^6.0.0-alpha.2",
     "round-precision": "^1.0.0",
     "run-parallel-limit": "^1.0.3",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "strip-ansi": "^4.0.0"
   }
 }
